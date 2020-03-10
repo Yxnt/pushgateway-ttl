@@ -1,0 +1,7 @@
+**/venv
+**/.git
+**/.idea
+**/__pycache__
+**/.dockerignore
+**/.gitignore
+**/k8syaml
